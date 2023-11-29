@@ -1,3 +1,6 @@
 # DBImages
-Trato de Armar una Base de Datos con Imagenes de Pogo.
+Data de imágenes de pogo, para proyectos...
+poketrux.com
+
+
 
